@@ -2,6 +2,8 @@
 
 "use strict";
 
+//Skapar variabler med personens information
+
 let firstname = "Pamela";
 
 let lastname ="Antoun";
@@ -9,9 +11,10 @@ let lastname ="Antoun";
 let age =30;
 
 let isStudent = true;
+//
 
-console.log(firstname +" "+ lastname);
+console.log(firstname +" "+ lastname); //Skrivs ut fösrt-och efternamn
 
-console.log(`Ålder: ${age}`);
+console.log(`Ålder: ${age}`); //skrivs ut ålder
 
-console.log(isStudent);
+console.log(`Student: ${isStudent}`); //skrivs ut och ger om personen är student
