@@ -11,7 +11,8 @@ let lastname ="Antoun";
 let age =30;
 
 let isStudent = true;
-//
+
+//Skriv ut information till skärmen
 
 console.log(firstname +" "+ lastname); //Skrivs ut fösrt-och efternamn
 
