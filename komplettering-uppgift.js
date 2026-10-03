@@ -1,4 +1,4 @@
-/* Lösning till Uppgift 6. Av Lucciana Ghazoul, 2026 */
+/* Lösning till komplettering-uppgift. Av Lucciana Ghazoul, 2026 */
 
 "use strict";
 
