@@ -9,5 +9,7 @@ function printMultiplicationTable(number) {
     for (let i = 1; i <= 10; i++) {
         console.log(number + " x " + i + " = " + (number * i));
     }
-}
 
+}
+// Testkörning: femmans gånger-tabell
+printMultiplicationTable(5);
