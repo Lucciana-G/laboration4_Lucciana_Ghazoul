@@ -4,7 +4,7 @@
 
 //Skapar en array som innehåller maträtter
 
-let dishes = ["Spagetti" , "Fisk och potatis" , "Köttbullar med potatis" , "Grillad kyckling"];
+let dishes = ["Spagetti" , "Fisk och potatis" , "Köttbullar med potatis" , "Grillad kyckling", "sallad"];
 
 //Skriver ut arrayen
 console.log(dishes);
