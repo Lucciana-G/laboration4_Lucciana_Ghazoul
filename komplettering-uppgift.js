@@ -2,7 +2,7 @@
 
 "use strict";
 
-//Skaoar en funktion som skriver ut multiplikations-tabeller.
+//Skapar en funktion som skriver ut multiplikations-tabeller.
 function printMultiplicationTable(number) {
     console.log("Multiplikationstabell för " + number + ":");
 
