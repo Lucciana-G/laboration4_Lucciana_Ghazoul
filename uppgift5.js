@@ -13,13 +13,13 @@ console.log(dishes);
 console.log("Första maträtten: " + dishes[0]);
 
 //skriver ut sista elementet
-console.log("Sista maträtten: " + dishes[3]);
+console.log("Sista maträtten: " + dishes[4]);
 
 //lägga till en ny maträtt sist i arrayen
 dishes.push("Tacos");
 
 //ta bort den första maträtten i arrayen
-dishes.shift("Pizza");
+dishes.shift();
 
 //Skriv ut arrayen igen efter förändringarna
 console.log("Arrayen efter förändringarna: ");
